@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=EunHye%20Jeong&fontSize=50&fontColor=fff&animation=fadeIn&desc=결핍을%20동력%20삼아%2C%20집요한%20논리로%20한계를%20돌파하는%20엔지니어&descSize=16&descAlignY=75)](https://github.com/EunHye-03)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=EunHye%20Jeong&fontSize=50&fontColor=fff&animation=fadeIn&desc=결핍을%20동력%20삼아%2C%20집요한%20논리로%20한계를%20돌파하는%20엔지니어&descSize=16&descAlignY=75)](https://github.com/Je-hye)
 
 <div align="center">
   <img src="profile.jpg" width="160" style="border-radius: 50%" />
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EunHye-03&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/EunHye-03)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Je-hye&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Je-hye)
 
 </div>
 
@@ -20,11 +20,11 @@
 
 | 프로젝트 | 기술 | 설명 |
 |---------|------|------|
-| [KNU MLA](https://github.com/EunHye-03/knu-mla) | FastAPI · Next.js · GPT-4o | 경북대 특화 다국어 AI 챗봇 |
-| [Hierar-Do](https://github.com/EunHye-03/Hierar-Do) | FastAPI · LangGraph · Claude API | AI 기반 계층형 Todo 서비스 |
+| [KNU MLA](https://github.com/Je-hye/knu-mla) | FastAPI · Next.js · GPT-4o | 경북대 특화 다국어 AI 챗봇 |
+| [Hierar-Do](https://github.com/Je-hye/Hierar-Do) | FastAPI · LangGraph · Claude API | AI 기반 계층형 Todo 서비스 |
 | [일단 쉼](https://github.com/getOffWork102/2025_AI_conic_Hackathon) | React · SSE · Google OAuth2 | 스트레스 태깅 기반 AI 스케줄러 🏅 |
-| [Video Codec Analysis](https://github.com/EunHye-03/video-codec-analysis) | Python · FFmpeg · VTM | HEVC/VVC 압축 성능 분석 자동화 |
-| [LLM-to-Notes](https://github.com/EunHye-03/LLM-to-Notes) | JavaScript · Notion API | ChatGPT/Gemini → Notion 크롬 익스텐션 |
+| [Video Codec Analysis](https://github.com/Je-hye/video-codec-analysis) | Python · FFmpeg · VTM | HEVC/VVC 압축 성능 분석 자동화 |
+| [LLM-to-Notes](https://github.com/Je-hye/LLM-to-Notes) | JavaScript · Notion API | ChatGPT/Gemini → Notion 크롬 익스텐션 |
 
 ---
 
@@ -32,7 +32,7 @@
 
 개발하면서 쌓은 명령어 레퍼런스, 트러블슈팅, 프로젝트 회고를 정리한 공개 기록입니다.
 
-→ **[EunHye-03/dev-notes](https://github.com/EunHye-03/dev-notes)**
+→ **[Je-hye/dev-notes](https://github.com/Je-hye/dev-notes)**
 
 ---
 
@@ -46,4 +46,4 @@
 
 </div>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer)](https://github.com/EunHye-03)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer)](https://github.com/Je-hye)
