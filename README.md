@@ -1,10 +1,14 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=EunHye%20Jeong&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Systems%20%26%20Backend%20Engineer%20%7C%20I%20don%27t%20rely%20on%20willpower%20—%20I%20design%20systems&descSize=14&descAlignY=75)](https://github.com/Je-hye)
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="160" />
-  
-  **Kyungpook National University · Global Software Convergence · 3rd Year**  
-  Daegu, Korea
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=EunHye+Jeong;AI+Systems+%26+Backend+Engineer;Multi-agent+Systems+Designer;I+design+systems%2C+not+habits)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="160" />
+
+**Kyungpook National University · Global Software Convergence · 3rd Year**  
+Daegu, Korea
+
 </div>
 
 ---
@@ -24,11 +28,12 @@ Building systems that produce correct outcomes automatically — not by habit, b
 
 ---
 
-## 🏆 Trophy
+## 📊 Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Je-hye&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Je-hye)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Je-hye&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Je-hye)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je-hye&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Je-hye)
 
 </div>
 
@@ -36,15 +41,15 @@ Building systems that produce correct outcomes automatically — not by habit, b
 
 ## 🚀 Projects
 
-| 프로젝트 | 역할 | 기술 | 설명 |
-|---------|------|------|------|
-| [Magic Academy](https://github.com/magic-academy-ma/Magic-Academy) | PM + Backend | LangGraph · PostgreSQL · React · Discord Bot | 멀티-에이전트 시뮬레이터 (진행 중) |
-| [my-ai-agents](https://github.com/Je-hye/my-ai-agents) | 솔로 | Claude Agent SDK · Cron · GitHub Actions | 6개 상시 구동 에이전트 (프로덕션) |
-| [KNU MLA](https://github.com/Je-hye/knu-mla) | 팀 리더 + Backend | FastAPI · GPT-4o · JWT | 경북대 특화 다국어 AI 어시스턴트 🏅 |
-| [Hierar-Do](https://github.com/Je-hye/Hierar-Do) | 솔로 | FastAPI · LangGraph · Docker | AI 계층형 투두 서비스 |
-| [Video Codec Analysis](https://github.com/Je-hye/video-codec-analysis) | 솔로 | Python · FFmpeg · VTM | HEVC vs VVC 압축 성능 분석 파이프라인 |
-| [Semiconductor Yield Analysis](#) | 솔로 | Python · pandas · T-test · Random Forest | 반도체 공정 결함 근본원인 분석 🥇 |
-| [Custom Agent Skills](https://github.com/Je-hye/my-agents-skills) | 솔로 | Claude Code Skills | 재사용 가능한 Claude Code 스킬 라이브러리 |
+| Project | Role | Stack | Description |
+|---------|------|-------|-------------|
+| [Magic Academy](https://github.com/magic-academy-ma/Magic-Academy) | PM + Backend | LangGraph · PostgreSQL · React · Discord Bot | Multi-agent simulator with memory & reputation (WIP) |
+| [my-ai-agents](https://github.com/Je-hye/my-ai-agents) | Solo | Claude Agent SDK · Cron · GitHub Actions | 6 always-on agents in production |
+| [KNU MLA](https://github.com/Je-hye/knu-mla) | Lead + Backend | FastAPI · GPT-4o · JWT | KNU-specific multilingual AI assistant 🏅 |
+| [Hierar-Do](https://github.com/Je-hye/Hierar-Do) | Solo | FastAPI · LangGraph · Docker | AI-powered hierarchical todo service |
+| [Video Codec Analysis](https://github.com/Je-hye/video-codec-analysis) | Solo | Python · FFmpeg · VTM | HEVC vs VVC compression analysis pipeline |
+| [Semiconductor Yield Analysis](#) | Solo | Python · pandas · T-test · Random Forest | Statistical root-cause analysis for fab defects 🥇 |
+| [Custom Agent Skills](https://github.com/Je-hye/my-agents-skills) | Solo | Claude Code Skills | Reusable Claude Code skill library |
 
 ---
 
@@ -52,35 +57,35 @@ Building systems that produce correct outcomes automatically — not by habit, b
 
 **CompMVR** · KNU Video Intelligence Lab  
 *Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction*  
-ACM SIGGRAPH Asia 2026 (S-Grade · 조건부 수용) · 공동저자
+ACM SIGGRAPH Asia 2026 (S-Grade · Conditionally Accepted) · Co-author
 
 ---
 
 ## 🛠 Skills
 
 **Core** · Python · FastAPI · LangGraph · PostgreSQL  
-**AI Agent** · Claude Code · Claude API · 멀티에이전트 설계 · LangGraph Workflows · Ollama  
+**AI Agent** · Claude Code · Claude API · Multi-agent Design · LangGraph Workflows · Ollama  
 **DevOps** · Docker · GitHub Actions · Cron  
 **Data** · pandas · FFmpeg · VTM · BD-Rate · PSNR  
 **Can also use** · Spring Boot · React · Redis · Arduino
 
-> 여러 언어보다 몇 개 프로젝트를 깊게 파는 편. 주력은 백엔드와 AI 에이전트 시스템.
+> Depth over breadth — focused on backend and AI agent systems.
 
 ---
 
 ## 🏅 Awards
 
-| 연도 | 대회 | 결과 |
-|------|------|------|
-| 2024 | Data Station Academy · Applied Python Data Analysis | 🥇 1등상 |
-| 2025 | AI-conic Hackathon · 일단 쉼 | 🏆 장려상 |
-| 2026 | CES Autonomous Project Competition · KNU MLA | 🏆 장려상 |
+| Year | Competition | Result |
+|------|------------|--------|
+| 2024 | Data Station Academy · Applied Python Data Analysis | 🥇 1st Place |
+| 2025 | AI-conic Hackathon · Ildan-Shim | 🏆 Excellence Award |
+| 2026 | CES Autonomous Project Competition · KNU MLA | 🏆 Excellence Award |
 
 ---
 
 ## 📒 Dev Notes
 
-개발하면서 쌓은 명령어 레퍼런스, 트러블슈팅, 프로젝트 회고를 정리한 공개 기록입니다.
+Command references, troubleshooting logs, and project retrospectives from real builds.
 
 → **[Je-hye/dev-notes](https://github.com/Je-hye/dev-notes)**
 
@@ -97,5 +102,3 @@ ACM SIGGRAPH Asia 2026 (S-Grade · 조건부 수용) · 공동저자
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je-hye.github.io/portfolio-website/?lang=ko)
 
 </div>
-
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer)](https://github.com/Je-hye)
