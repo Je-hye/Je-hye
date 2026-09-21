@@ -1,10 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=EunHye%20Jeong&fontSize=65&fontColor=58A6FF&animation=fadeIn&desc=AI%20Systems%20%26%20Backend%20Engineer&descSize=22&descAlignY=72&fontAlignY=42&descAlign=62&textBg=false" />
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=EunHye+Jeong;AI+Systems+%26+Backend+Engineer;Multi-agent+Systems+Designer;I+design+systems%2C+not+habits)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Multi-agent+Systems+Designer;Claude+Code+%26+Claude+API+Builder;I+design+systems%2C+not+habits)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="160" />
+<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="150" />
 
 **Kyungpook National University · Global Software Convergence · 3rd Year**  
 Daegu, Korea
@@ -32,8 +34,7 @@ Building systems that produce correct outcomes automatically — not by habit, b
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Je-hye&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Je-hye)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je-hye&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Je-hye)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Je-hye&theme=tokyonight&hide_border=true)](https://github.com/Je-hye)
 
 </div>
 
@@ -63,13 +64,11 @@ ACM SIGGRAPH Asia 2026 (S-Grade · Conditionally Accepted) · Co-author
 
 ## 🛠 Skills
 
-**Core** · Python · FastAPI · LangGraph · PostgreSQL  
-**AI Agent** · Claude Code · Claude API · Multi-agent Design · LangGraph Workflows · Ollama  
-**DevOps** · Docker · GitHub Actions · Cron  
-**Data** · pandas · FFmpeg · VTM · BD-Rate · PSNR  
-**Can also use** · Spring Boot · React · Redis · Arduino
+**Focused on** · Python · FastAPI · LangGraph · PostgreSQL  
+**AI Agent** · Claude Code · Claude API · Multi-agent Design · Ollama  
+**Familiar with** · Spring Boot · React · Redis · Docker
 
-> Depth over breadth — focused on backend and AI agent systems.
+> Backend and AI agent systems — depth over breadth.
 
 ---
 
@@ -102,3 +101,5 @@ Command references, troubleshooting logs, and project retrospectives from real b
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je-hye.github.io/portfolio-website/?lang=ko)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer&reversal=true" />
