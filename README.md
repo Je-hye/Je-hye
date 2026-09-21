@@ -1,7 +1,7 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=EunHye%20Jeong&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Systems%20%26%20Backend%20Engineer%20%7C%20I%20don%27t%20rely%20on%20willpower%20—%20I%20design%20systems&descSize=14&descAlignY=75)](https://github.com/Je-hye)
 
 <div align="center">
-  <img src="profile.jpg" width="160" style="border-radius: 50%" />
+  <img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="160" />
   
   **Kyungpook National University · Global Software Convergence · 3rd Year**  
   Daegu, Korea
@@ -58,12 +58,13 @@ ACM SIGGRAPH Asia 2026 (S-Grade · 조건부 수용) · 공동저자
 
 ## 🛠 Skills
 
-**Language** · Python · JavaScript  
-**Backend** · FastAPI · LangGraph · PostgreSQL · Redis  
-**AI/LLM** · Claude · GPT-4o · Claude Agent SDK · LangGraph · Ollama  
+**Core** · Python · FastAPI · LangGraph · PostgreSQL  
+**AI Agent** · Claude Code · Claude API · 멀티에이전트 설계 · LangGraph Workflows · Ollama  
 **DevOps** · Docker · GitHub Actions · Cron  
-**Data** · pandas · Random Forest · T-test · BD-Rate · PSNR  
-**Other** · FFmpeg · VTM · Arduino · Discord Bot
+**Data** · pandas · FFmpeg · VTM · BD-Rate · PSNR  
+**Can also use** · Spring Boot · React · Redis · Arduino
+
+> 여러 언어보다 몇 개 프로젝트를 깊게 파는 편. 주력은 백엔드와 AI 에이전트 시스템.
 
 ---
 
