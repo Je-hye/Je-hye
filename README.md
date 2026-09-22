@@ -3,7 +3,7 @@
 <td width="78%">
 <img width="100%" src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/banner.svg" alt="banner" />
 </td>
-<td width="22%" align="center" valign="middle" bgcolor="#0f3460">
+<td width="22%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile_circle.png" width="130" /><br/><br/>
 <sub><b>KNU Global SW Convergence</b><br/>3rd Year · Daegu, Korea</sub>
 </td>
