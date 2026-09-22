@@ -1,10 +1,6 @@
 <div align="center">
 
-<br/>
-
-[![name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=EunHye+Jeong)](https://github.com/Je-hye)
-
-[![desc](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=A0AEC0&center=true&vCenter=true&width=700&height=50&lines=AI+Systems+%26+Backend+Engineer;Multi-agent+Systems+Designer;Claude+Code+%26+Claude+API+Builder;I+design+systems%2C+not+habits)](https://github.com/Je-hye)
+<img width="100%" src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/banner.svg" alt="EunHye Jeong" />
 
 <br/>
 
