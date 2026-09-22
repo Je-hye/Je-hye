@@ -1,15 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=EunHye%20Jeong&fontSize=65&fontColor=58A6FF&animation=fadeIn&desc=AI%20Systems%20%26%20Backend%20Engineer&descSize=22&descAlignY=72&fontAlignY=42&descAlign=62&textBg=false" />
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Multi-agent+Systems+Designer;Claude+Code+%26+Claude+API+Builder;I+design+systems%2C+not+habits)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="150" />
+[![name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=EunHye+Jeong)](https://github.com/Je-hye)
+
+[![desc](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=A0AEC0&center=true&vCenter=true&width=700&height=50&lines=AI+Systems+%26+Backend+Engineer;Multi-agent+Systems+Designer;Claude+Code+%26+Claude+API+Builder;I+design+systems%2C+not+habits)](https://github.com/Je-hye)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="140" style="border-radius:50%" />
+
+<br/>
 
 **Kyungpook National University · Global Software Convergence · 3rd Year**  
 Daegu, Korea
+
+<br/>
 
 </div>
 
@@ -101,5 +107,3 @@ Command references, troubleshooting logs, and project retrospectives from real b
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je-hye.github.io/portfolio-website/?lang=ko)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer&reversal=true" />
