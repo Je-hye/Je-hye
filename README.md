@@ -1,18 +1,8 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="78%">
-<img width="100%" src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/banner.svg" alt="banner" />
-</td>
-<td width="22%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile_circle.png" width="130" /><br/><br/>
-<sub><b>KNU Global SW Convergence</b><br/>3rd Year · Daegu, Korea</sub>
-</td>
-</tr>
-</table>
+<img width="100%" src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/banner_final.png" alt="EunHye Jeong" />
 
 ---
 
-## About
+## 👤 About
 
 > "I don't rely on willpower — I design _systems_"
 
@@ -20,14 +10,14 @@ AI Systems Engineer focused on **Agents · Infrastructure · Automation**.
 Building systems that produce correct outcomes automatically — not by habit, but by design.
 
 **Currently**
-- KNU · Global Software Convergence
-- Likelion 14th · Backend
-- Enactus KNU 10th
-- KNU Video Intelligence Lab · 3D Research (paused)
+- 🏫 KNU · Global Software Convergence
+- 🦁 Likelion 14th · Backend
+- 🌱 Enactus KNU 10th
+- 🔬 KNU Video Intelligence Lab · 3D Research (paused)
 
 ---
 
-## Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -37,21 +27,21 @@ Building systems that produce correct outcomes automatically — not by habit, b
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | Role | Stack | Description |
 |---------|------|-------|-------------|
 | [Magic Academy](https://github.com/magic-academy-ma/Magic-Academy) | PM + Backend | LangGraph · PostgreSQL · React · Discord Bot | Multi-agent simulator with memory & reputation (WIP) |
 | [my-ai-agents](https://github.com/Je-hye/my-ai-agents) | Solo | Claude Agent SDK · Cron · GitHub Actions | 6 always-on agents in production |
-| [KNU MLA](https://github.com/Je-hye/knu-mla) | Lead + Backend | FastAPI · GPT-4o · JWT | KNU-specific multilingual AI assistant |
+| [KNU MLA](https://github.com/Je-hye/knu-mla) | Lead + Backend | FastAPI · GPT-4o · JWT | KNU-specific multilingual AI assistant 🏅 |
 | [Hierar-Do](https://github.com/Je-hye/Hierar-Do) | Solo | FastAPI · LangGraph · Docker | AI-powered hierarchical todo service |
 | [Video Codec Analysis](https://github.com/Je-hye/video-codec-analysis) | Solo | Python · FFmpeg · VTM | HEVC vs VVC compression analysis pipeline |
-| [Semiconductor Yield Analysis](#) | Solo | Python · pandas · T-test · Random Forest | Statistical root-cause analysis for fab defects |
+| [Semiconductor Yield Analysis](#) | Solo | Python · pandas · T-test · Random Forest | Statistical root-cause analysis for fab defects 🥇 |
 | [Custom Agent Skills](https://github.com/Je-hye/my-agents-skills) | Solo | Claude Code Skills | Reusable Claude Code skill library |
 
 ---
 
-## Research
+## 🔬 Research
 
 **CompMVR** · KNU Video Intelligence Lab  
 *Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction*  
@@ -59,7 +49,7 @@ ACM SIGGRAPH Asia 2026 (S-Grade · Conditionally Accepted) · Co-author
 
 ---
 
-## Skills
+## 🛠 Skills
 
 **Focused on** · Python · FastAPI · LangGraph · PostgreSQL  
 **AI Agent** · Claude Code · Claude API · Multi-agent Design · Ollama  
@@ -69,25 +59,25 @@ ACM SIGGRAPH Asia 2026 (S-Grade · Conditionally Accepted) · Co-author
 
 ---
 
-## Awards
+## 🏅 Awards
 
 | Year | Competition | Result |
 |------|------------|--------|
-| 2024 | Data Station Academy · Applied Python Data Analysis | 1st Place |
-| 2025 | AI-conic Hackathon · Ildan-Shim | Excellence Award |
-| 2025 | CES Autonomous Project Competition · KNU MLA | Excellence Award |
+| 2024 | Data Station Academy · Applied Python Data Analysis | 🥇 1st Place |
+| 2025 | AI-conic Hackathon · Ildan-Shim | 🏆 Excellence Award |
+| 2025 | CES Autonomous Project Competition · KNU MLA | 🏆 Excellence Award |
 
 ---
 
-## Dev Notes
+## 📒 Dev Notes
 
 Command references, troubleshooting logs, and project retrospectives from real builds.
 
-**[Je-hye/dev-notes](https://github.com/Je-hye/dev-notes)**
+→ **[Je-hye/dev-notes](https://github.com/Je-hye/dev-notes)**
 
 ---
 
-## Contact
+## 📬 Contact
 
 <div align="center">
 
