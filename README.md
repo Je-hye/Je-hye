@@ -10,7 +10,7 @@ AI Systems Engineer focused on **Agents · Infrastructure · Automation**.
 Building systems that produce correct outcomes automatically — not by habit, but by design.
 
 **Currently**
-- 🏫 KNU · Global Software Convergence
+- 🏫 KNU · Global Software Convergence · Junior
 - 🦁 Likelion 14th · Backend
 - 🌱 Enactus KNU 10th
 - 🔬 KNU Video Intelligence Lab · 3D Research (paused)
