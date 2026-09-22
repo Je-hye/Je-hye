@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:0f3460&height=260&section=header&text=EunHye%20Jeong&fontSize=62&fontColor=58A6FF&animation=fadeIn&desc=AI%20Systems%20%26%20Backend%20Engineer&descSize=21&descAlignY=65&fontAlignY=42)](https://github.com/Je-hye)
+<img width="100%" src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/banner.svg" alt="banner" />
 
 <div align="center">
 
@@ -99,5 +99,3 @@ Command references, troubleshooting logs, and project retrospectives from real b
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je-hye.github.io/portfolio-website/?lang=ko)
 
 </div>
-
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,60:1a1a2e,100:0d1117&height=120&section=footer)](https://github.com/Je-hye)
