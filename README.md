@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="120" style="border-radius:50%" />
+<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile_circle.png" width="120" />
 
 **Kyungpook National University · Global Software Convergence · 3rd Year**  
 Daegu, Korea
