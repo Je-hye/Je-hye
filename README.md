@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/profile.jpg" width="130" style="border-radius:50%" />
-
-<br/>
-
 **Kyungpook National University · Global Software Convergence · 3rd Year**  
 Daegu, Korea
 
