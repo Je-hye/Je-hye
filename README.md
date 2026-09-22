@@ -78,7 +78,7 @@ ACM SIGGRAPH Asia 2026 (S-Grade · Conditionally Accepted) · Co-author
 |------|------------|--------|
 | 2024 | Data Station Academy · Applied Python Data Analysis | 🥇 1st Place |
 | 2025 | AI-conic Hackathon · Ildan-Shim | 🏆 Excellence Award |
-| 2026 | CES Autonomous Project Competition · KNU MLA | 🏆 Excellence Award |
+| 2025 | CES Autonomous Project Competition · KNU MLA | 🏆 Excellence Award |
 
 ---
 
