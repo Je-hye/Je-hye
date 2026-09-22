@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/banner_final.png" alt="EunHye Jeong" />
+<img width="100%" src="https://raw.githubusercontent.com/Je-hye/Je-hye/main/banner_v2.png" alt="EunHye Jeong" />
 
 ---
 
